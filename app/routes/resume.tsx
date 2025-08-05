@@ -87,4 +87,8 @@ const Resume = () => {
         </main>
     )
 }
+<<<<<<< HEAD
 export default Resume
+=======
+export default Resume
+>>>>>>> 7f46e4e85f4db0ce67c1f54a06753a3837b367fd

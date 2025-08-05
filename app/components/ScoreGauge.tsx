@@ -59,4 +59,8 @@ const ScoreGauge = ({ score = 75 }: { score: number }) => {
     );
 };
 
+<<<<<<< HEAD
 export default ScoreGauge;
+=======
+export default ScoreGauge;
+>>>>>>> 7f46e4e85f4db0ce67c1f54a06753a3837b367fd

@@ -9,8 +9,13 @@ import {
 
 import type { Route } from "./+types/root";
 import "./app.css";
+<<<<<<< HEAD
 import {usePuterStore} from "~/lib/puter";
 import {useEffect} from "react";
+=======
+import { useEffect } from "react";
+import { usePuterStore } from "./lib/puter";
+>>>>>>> 7f46e4e85f4db0ce67c1f54a06753a3837b367fd
 
 export const links: Route.LinksFunction = () => [
   { rel: "preconnect", href: "https://fonts.googleapis.com" },
@@ -26,10 +31,17 @@ export const links: Route.LinksFunction = () => [
 ];
 
 export function Layout({ children }: { children: React.ReactNode }) {
+<<<<<<< HEAD
   const { init } = usePuterStore();
 
   useEffect(() => {
     init()
+=======
+  const {init} = usePuterStore();
+
+  useEffect(() => {
+    init();
+>>>>>>> 7f46e4e85f4db0ce67c1f54a06753a3837b367fd
   }, [init]);
 
   return (
@@ -42,6 +54,10 @@ export function Layout({ children }: { children: React.ReactNode }) {
       </head>
       <body>
         <script src="https://js.puter.com/v2/"></script>
+<<<<<<< HEAD
+=======
+
+>>>>>>> 7f46e4e85f4db0ce67c1f54a06753a3837b367fd
         {children}
         <ScrollRestoration />
         <Scripts />

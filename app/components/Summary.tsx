@@ -42,4 +42,8 @@ const Summary = ({ feedback }: { feedback: Feedback }) => {
         </div>
     )
 }
+<<<<<<< HEAD
 export default Summary
+=======
+export default Summary
+>>>>>>> 7f46e4e85f4db0ce67c1f54a06753a3837b367fd

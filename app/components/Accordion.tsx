@@ -163,4 +163,8 @@ export const AccordionContent: React.FC<AccordionContentProps> = ({
             <div className="px-4 py-3 ">{children}</div>
         </div>
     );
+<<<<<<< HEAD
 };
+=======
+};
+>>>>>>> 7f46e4e85f4db0ce67c1f54a06753a3837b367fd

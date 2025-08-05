@@ -82,4 +82,8 @@ export async function convertPdfToImage(
             error: `Failed to convert PDF: ${err}`,
         };
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 7f46e4e85f4db0ce67c1f54a06753a3837b367fd
