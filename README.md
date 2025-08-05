@@ -206,4 +206,4 @@ Uses OpenAI API / HuggingFace to analyze resumes and job descriptions
 
 Provides fit scores for each candidate
 
->>>>>>> 7f46e4e85f4db0ce67c1f54a06753a3837b367fd
+

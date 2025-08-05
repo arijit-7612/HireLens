@@ -6,7 +6,7 @@ import ATS from "~/components/ATS";
 import Details from "~/components/Details";
 
 export const meta = () => ([
-    { title: 'HireLens | Review ' },
+    { title: 'HireLens | Review '},
     { name: 'description', content: 'Detailed overview of your resume' },
 ])
 
@@ -87,8 +87,4 @@ const Resume = () => {
         </main>
     )
 }
-<<<<<<< HEAD
 export default Resume
-=======
-export default Resume
->>>>>>> 7f46e4e85f4db0ce67c1f54a06753a3837b367fd
