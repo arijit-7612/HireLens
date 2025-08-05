@@ -4,6 +4,7 @@
 2. ⚙️ [Tech Stack](#tech-stack)
 3. 🔋 [Features](#features)
 4. 🤸 [Quick Start](#quick-start)
+5. 🚀 [Live Demo](#Live-Demo)
 
 
 ## <a name="introduction">✨ Introduction</a>
@@ -84,6 +85,9 @@ Open [http://localhost:5173](http://localhost:5173) in your browser to view the 
 
 
 
+## 🔗 <a name="Live-Demo"> Live Demo</a>
+
+Check out the live version here 👉 [Live Demo 🚀](https://hire-lens-umber.vercel.app/)
 
 ---
 
